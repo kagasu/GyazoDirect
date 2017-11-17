@@ -5,5 +5,5 @@
     "background": {
       "scripts": [ "background.js" ]
     },
-    "permissions":["https://gyazo.com/*","webRequest","webRequestBlocking","tabs"]
+    "permissions":["https://gyazo.com/*","webRequest","webRequestBlocking"]
   }
